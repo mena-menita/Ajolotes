@@ -1,0 +1,16 @@
+/* COMEMTARIOS */
+body{
+    background-color:rgb(240, 200, 206);
+    font-family: 'Quicksand', sans-serif;}
+p {color: rgb(87, 0, 154);
+text-align: justify;}
+.titulo {color:brown; 
+    text-align:center;
+    font-family: 'Rajdhani', sans-serif;}
+.nombre { text-align: center;}
+.indice { display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
